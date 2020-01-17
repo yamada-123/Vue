@@ -43,19 +43,3 @@ new Vue({
     }
   }
 });
-
-//   // methodsに、Vue.jsのインスタンスに使用させたいメソッドを記載する
-//   methods: {
-//     addStudent: function () {
-//       this.students.push({
-//         id: this.students.length + 1,
-//         name: this.name,
-//         cource: this.cource,
-//         acceptancePeriod: this.acceptancePeriod
-//       });
-//       this.name = '';
-//       this.cource = '';
-//       this.acceptancePeriod = '';
-//     }
-//   }
-// })
